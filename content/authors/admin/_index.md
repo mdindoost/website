@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Oliver Alvarado Rodriguez
+title: Mohammad Dindoost
 
 # Full name (for SEO)
-first_name: Oliver
-last_name: Alvarado Rodriguez
+first_name: Mohammad
+last_name: Dindoost
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,7 +31,7 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: New Jersey Institute of Technology
-      year: 2025
+      year: Current
     - course: B.S. in Computer Science
       institution: William Paterson University
       year: 2020
